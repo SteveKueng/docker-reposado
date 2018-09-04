@@ -1,6 +1,6 @@
-FROM nginx:1.7
+FROM nginx
 
-MAINTAINER Scott Blake "Scott.Blake@mail.wvu.edu"
+MAINTAINER Steve Küng "steve.kueng@gmail.com"
 
 ENV PATH /reposado/code:$PATH
 
